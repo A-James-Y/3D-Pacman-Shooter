@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fantasmas Pac Man
+* source:	https://sketchfab.com/3d-models/fantasmas-pac-man-d3851459b4b247f488b5ede99cbe37c1
+* author:	Aldomi364 (https://sketchfab.com/sonicgamuno320)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fantasmas Pac Man" (https://sketchfab.com/3d-models/fantasmas-pac-man-d3851459b4b247f488b5ede99cbe37c1) by Aldomi364 (https://sketchfab.com/sonicgamuno320) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
