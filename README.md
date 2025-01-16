@@ -7,7 +7,6 @@ A modern reimagining of the classic Pacman game, **Pacman 3D Shooter** brings th
 
 ## Table of Contents
 - [Video Demo](#video-demo)
-- [Binary Download](#binary-download)
 - [Development Requirements](#development-requirements)
 - [Development Setup](#development-setup)
 - [Features](#features)
@@ -23,10 +22,7 @@ A modern reimagining of the classic Pacman game, **Pacman 3D Shooter** brings th
 
 Experience the game in action by watching the video demo.
 
-## Binary Download
 
-The latest build of the game can be downloaded from our GitHub repository: 
-[Download Here](#)
 
 ## Development Requirements
 
@@ -57,23 +53,21 @@ The latest build of the game can be downloaded from our GitHub repository:
 - **Object Destruction Animation**: Crates and barrels shatter dynamically when destroyed.
 - **Enemy Death Animation**: Enemies feature fluid and satisfying animations when defeated.
 
-## Contributions
+## Our Contributions
 
-This project was a collaborative effort. Below is a breakdown of contributions:
+This project was a collaborative effort. Below is a breakdown of our combined contributions:
 
-### Team Member 1 (Your Contributions)
+
 
 - Designed and implemented all core game mechanics:
   - Player Mechanics: Movement (including run and jump), shooting, collision detection, and health systems.
   - Enemy AI: Pathfinding, attack behaviors, and state management.
-  - Game Logic: Timer system and level progression.
+  - Game Logic: Timer system 
 - Developed object animations for players, enemies, and destructible objects.
-
-### Team Member 2
-
+- Enhanced the game with Unity's Particle System  and post-processing features
 - Designed the 3D maze environment and added immersive lighting and textures.
 - Integrated pre-built assets for enemies and visual elements.
-- Enhanced the game with dynamic particle effects and post-processing features.
+
 
 ## Hotkeys
 
@@ -94,8 +88,8 @@ This project was a collaborative effort. Below is a breakdown of contributions:
 
 ## Credits
 
-- Game Mechanics & Animation: Team Member 1
-- Environment Design & Asset Integration: Team Member 2
+- Game Mechanics & Animation: Mashrur Rashid
+- Environment Design & Asset Integration: James
 - Game Engine: Unity
 - Programming Language: C#
 
