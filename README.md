@@ -32,9 +32,71 @@ The latest build of the game can be downloaded from our GitHub repository:
 
 - Unity (tested with version 2021.3 or newer)
 
-## Development Setup
+# Features
 
-1. Clone or download this repository:
-   ```bash
-   git clone <repo-link>
+## Gameplay Mechanics
+
+- **3D Maze Navigation**: Navigate through a fully 3D maze environment.
+- **Shooter Mechanics**: Players can shoot enemies while navigating through the maze.
+- **Special Movements**: Players can run and jump, adding dynamic options for navigating and evading enemies.
+- **Enemy Death Animation**: Enemies feature smooth death animations upon defeat.
+- **Timer Challenge**: A timer system challenges players to complete levels in the fastest time possible.
+
+## Environment
+
+- **Immersive 3D Design**: A carefully crafted maze environment with realistic textures, dynamic lighting, and interactive elements.
+- **Assets Used**:
+  - Walls and structures built using modular design.
+  - Enemy models sourced and integrated to match the visual style.
+  - Lighting and particle effects enhance the player's experience.
+
+## Animations
+
+- **Shooting Animation**: Includes muzzle flash utilizing Unity's particle system with light and smoke effects.
+- **Gun Shake Animation**: Adds a sense of realism to shooting.
+- **Object Destruction Animation**: Crates and barrels shatter dynamically when destroyed.
+- **Enemy Death Animation**: Enemies feature fluid and satisfying animations when defeated.
+
+## Contributions
+
+This project was a collaborative effort. Below is a breakdown of contributions:
+
+### Team Member 1 (Your Contributions)
+
+- Designed and implemented all core game mechanics:
+  - Player Mechanics: Movement (including run and jump), shooting, collision detection, and health systems.
+  - Enemy AI: Pathfinding, attack behaviors, and state management.
+  - Game Logic: Timer system and level progression.
+- Developed object animations for players, enemies, and destructible objects.
+
+### Team Member 2
+
+- Designed the 3D maze environment and added immersive lighting and textures.
+- Integrated pre-built assets for enemies and visual elements.
+- Enhanced the game with dynamic particle effects and post-processing features.
+
+## Hotkeys
+
+- WASD: Player movement
+- Space: Jump
+- Shift: Run
+- Left Mouse Button: Shoot
+- ESC: Pause Menu
+- R: Restart Level
+
+## To-Do
+
+- Add more levels with unique challenges.
+- Implement advanced enemy behaviors and boss fights.
+- Add a scoring system to reward player performance.
+- Introduce power-ups to enhance gameplay.
+- Improve UI/UX for better player engagement.
+
+## Credits
+
+- Game Mechanics & Animation: Team Member 1
+- Environment Design & Asset Integration: Team Member 2
+- Game Engine: Unity
+- Programming Language: C#
+
 
