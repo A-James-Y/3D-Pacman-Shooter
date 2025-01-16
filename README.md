@@ -8,9 +8,8 @@ A modern reimagining of the classic Pacman game, **Pacman 3D Shooter** brings th
 ## Table of Contents
 - [Video Demo](#video-demo)
 - [Development Requirements](#development-requirements)
-- [Development Setup](#development-setup)
 - [Features](#features)
-- [Contributions](#contributions)
+- [Contributions](#our-contributions)
 - [Hotkeys](#hotkeys)
 - [To-Do](#to-do)
 - [Credits](#credits)
